@@ -1,7 +1,7 @@
 package com.github.demo.model;
 
 /**
- * Model class for book.
+ * Model class for book. extra comment
  */
 public class Book {
 
